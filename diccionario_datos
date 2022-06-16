@@ -1,0 +1,5 @@
+name = string, nombre de la columna del producto en oferta. \n
+brand = string, nombre de la columna de la marca del producto en oferta. \n
+price = string, nombre de la columna de los precios de los productos en oferta. \n
+df = string, variable para el data frame de los productos del scrapping. \n
+data = string, data frame que visualiza los datos en forma ascendente. \n
